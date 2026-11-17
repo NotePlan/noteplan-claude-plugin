@@ -20,5 +20,6 @@
   "icon": "./assets/icon.png",
   "supportUrl": "https://help.noteplan.co",
   "privacyPolicyUrl": "https://noteplan.co/privacy",
-  "termsOfServiceUrl": "https://noteplan.co/terms"
+  "termsOfServiceUrl": "https://noteplan.co/terms",
+  "documentationUrl": "https://help.noteplan.co/article/283-use-noteplan-in-claude-on-iphone-ipad-and-the-web-remote-connector"
 }
