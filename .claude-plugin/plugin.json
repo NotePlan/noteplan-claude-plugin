@@ -1,5 +1,6 @@
 {
   "name": "noteplan",
+  "displayName": "NotePlan",
   "version": "1.0.0",
   "description": "Read, search and edit your NotePlan notes, and manage your tasks: list them, check them off, reschedule them and plan your day.",
   "author": {
