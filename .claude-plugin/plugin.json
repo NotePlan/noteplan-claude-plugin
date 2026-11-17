@@ -9,6 +9,7 @@
     "url": "https://noteplan.co"
   },
   "homepage": "https://noteplan.co",
+  "repository": "https://github.com/NotePlan/noteplan-claude-plugin",
   "license": "MIT",
   "keywords": [
     "notes",
